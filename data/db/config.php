@@ -1,0 +1,33 @@
+<?php
+
+define("FilexLocation","");
+define("_SiteFacebook","Facebook");
+define("_SiteTwitter","Twitter");
+define("_SiteYouTube","YouTube");
+define("_Site_info_Social","2");
+define("_START_ID","1");
+define("_START_M","1");
+define("_START_SZ","kopage3");
+define("_ADM_EMAIL","derrickwilder48625@outlook.com");
+define("_PIN","1");
+define("_LANG","en");
+define("_WYSIWYG","1");
+define("_NOCHMODS","NOCHMODS");
+define("_DHTML_CLICK","1");
+define("_DATE_FORMAT","**l**, **F** **j**, **Y**");
+define("_SiteName","Company Name");
+define("_SiteSlogan","Website Slogan");
+define("_SiteTitle","");
+define("_SiteKeywords","");
+define("_SiteDescription","");
+define("_SiteCharset","text/html; charset=utf-8");
+define("_SiteExtra","");
+define("_SiteFooter","Copyright (c)2022 {%WebsiteName%}");
+define("ahash","e5962095f3cf4898bd53dfa5842c9548");
+define("_Site_info_CompanyName","Company Name");
+define("_Site_info_Phone","(123) 456-7890");
+define("_Site_info_Address","123 Street, Suite 600");
+define("_Site_info_City","San Francisco, CA 94107");
+define("_SiteLogo","data/files/theme/logo-insurance.svg");
+define("websiteVersionCheck","1661030296");
+
